@@ -13,9 +13,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![reactjs](https://img.shields.io/badge/react.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![reactjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 
 **🛠️ Infra and Tools**
 
