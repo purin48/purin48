@@ -12,15 +12,16 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![reactjs](https://img.shields.io/badge/react.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
+<br/>
+
 **Backend**
 
-![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <br/><br/>
 
-**👩‍💻 Most Used Languages**
-<br/><br/>
+## 👩‍💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purin48&layout=compact)
